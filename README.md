@@ -38,3 +38,6 @@ A secure backend system that allows users to register, log in, and manage virtua
    ```bash
    git clone https://github.com/TheSensibleLunatic/digital-wallet-system.git
    cd digital-wallet-system
+2. **WATCH THE 2 MINUTE VIDEO**
+   ```bash
+   https://www.youtube.com/watch?v=6srnrm5llF8
