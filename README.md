@@ -1,7 +1,9 @@
 # 💳 Digital Wallet System with Fraud Detection
 
 A secure backend system that allows users to register, log in, and manage virtual cash — including transfers, withdrawals, and fraud detection. Built using Python Flask with RESTful API architecture.
-
+1. **WATCH THE 2 MINUTE VIDEO**
+   ```bash
+      https://www.youtube.com/watch?v=6srnrm5llF8
 ---
 
 ## 🚀 Features
